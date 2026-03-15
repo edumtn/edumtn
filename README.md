@@ -25,6 +25,13 @@ Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informá
 
 ---
 
+### 🌍 Languages
+- Spanish Native
+- English B2
+- Italian A2
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edumtn&show_icons=true&theme=radical)
