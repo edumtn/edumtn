@@ -28,12 +28,11 @@ Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informá
 ---
 
 ### Idiomas
+
 - **Español** Nativo
 - **Inglés** B2
 
 ---
-
-### Formación Académica
 
 ### Formación Académica
 
@@ -46,7 +45,7 @@ Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informá
 
 ### Proyectos Destacados
 
-Aquí tienes algunos de los proyectos más relevantes en los que he trabajado recientemente:
+Aquí puedes ver algunos de los proyectos más relevantes en los que he trabajado durante mi etapa académica:
 
 #### Sistema de Telemetría y Monitorización Industrial
 Desarrollo de una solución automatizada para la extracción de datos de contadores energéticos (protocolo IEC 60870-5-102) en plantas solares. El sistema recopila datos diarios, los almacena en bases de datos de series temporales y alerta sobre anomalías en el rendimiento de los inversores.
