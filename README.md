@@ -1,17 +1,18 @@
-# ¡Hola! Soy Eduardo Martin Muñoz 👋
+# ¡Hola! Soy Eduardo Martin Muñoz
 
-### 🎓 Ingeniero Informático en formación | Apasionado por la tecnología 
+### 🎓 Ingeniero Informático en formación | Especialidad TI 
 
-Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informática, ampliando mis horizontes académicos en **Polonia**. Soy un perfil híbrido que combina la curiosidad técnica con una fuerte capacidad de adaptación a nuevos retos o Tecnologías.
+Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informática. Soy un perfil que combina la curiosidad técnica con una fuerte capacidad de adaptación a nuevos retos o Tecnologías.
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🌍 Actualmente estudiando en el extranjero (Polonia), fortaleciendo mis habilidades interculturales e idiomas.
-- 🔍 Mi enfoque principal es **IT (Tecnologías de la Información)**, orientada a mejorar soluciones existentes y optimizar procesos.
-- 🌱 Estoy en constante aprendizaje; me considero un entusiasta de la formación continua y la arquitectura de software.
-- 💡 Mi mayor orgullo es mi curiosidad insaciable por entender cómo funcionan las cosas.
+- Mi enfoque principal es **IT (Tecnologías de la Información)**, orientada a mejorar soluciones existentes y optimizar procesos.
+- Aprendizaje constante; entusiasta de la formación continua y la arquitectura de software.
+- Me caracteriza un enfoque práctico orientado a la resolución de problemas reales, buscando la forma más óptima de integrar sistemas y automatizar procesos.
+- Estudié en el extranjero **(Polonia)**, fortaleciendo mis habilidades interculturales e idiomas.
+- Actualmente, busco oportunidades que ayuden a mi desarrollo y consoliden mi perfil profesional aportando valor desde el inicio .
 
 ---
 
@@ -20,7 +21,7 @@ Actualmente me encuentro en la etapa final de mi carrera de Ingeniería Informá
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Lenguajes** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Bases de Datos** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Bases de Datos** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL]() |
 | **Control de Versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 
 ---
