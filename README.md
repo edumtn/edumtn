@@ -58,6 +58,12 @@ Diseño e implementación de una base de datos relacional robusta para la admini
 *   **Tecnologías:** ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL/SQL-4479A1?style=flat-square) ![drawSQL](https://img.shields.io/badge/-drawSQL-263238?style=flat-square)
 
 
+#### Sistemas Inteligentes y Redes Neuronales
+Desarrollo de un modelo computacional basado en redes neuronales para el análisis inteligente de datos aplicable a entornos de predicción). El proyecto involucra la limpieza de datos, entrenamiento del modelo y evaluación de precisión.
+*   **Enfoque:** Machine Learning, Inteligencia Artificial, Análisis de Datos.
+*   **Tecnologías:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+
+
 #### Procesamiento de Imágenes y Visión Artificial
 Desarrollo de algoritmos matemáticos y scripts para el análisis de imágenes. Filtrado personalizado, detección de formas (semáforos mediante espacio de color HSV y Transformada de Hough) y sistemas de reconocimiento facial utilizando análisis de componentes principales (Eigenfaces / PCA).
 *   **Tecnologías:** ![MATLAB](https://img.shields.io/badge/-MATLAB-e25f1c?style=flat-square&logo=mathworks&logoColor=white)
